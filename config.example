@@ -1,0 +1,6 @@
+;renombre este archivo como .config
+[opciones]
+user = tu_nombre_de_usuario
+pass = tu_contraseña_para_el_usuario
+host = tu_host
+base = tu_base_de_datos
